@@ -22,3 +22,7 @@ const smoothiesSchema = new Schema({
         trim: true,
     },
 });
+
+const Smoothies = model('Smoothies', smoothiesSchema);
+
+module.exports = Smoothies;
