@@ -1,0 +1,2 @@
+const { Smoothies } = require('../models');
+
