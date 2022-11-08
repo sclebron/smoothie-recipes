@@ -9,6 +9,8 @@ const typeDefs = gql`
         recipes: String
     }
     type Query {
-        
+        smoothies: [Smoothie]!
     }
-`
+`;
+
+module.exports = typeDefs;
