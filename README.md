@@ -24,6 +24,10 @@ This application shows the user smoothie recipes. The homepage displays pictures
 
 ## Contributors 
 
+Sophie LeBron
+
 ## Github
+
+https://github.com/sclebron/smoothie-recipes
 
 ## Deployed Link
