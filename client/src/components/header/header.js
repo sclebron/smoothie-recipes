@@ -27,7 +27,7 @@ function BrandExample() {
               </Link>
               <Link to="/signup">
                 <Button className="button-2" variant="primary">
-                  Register
+                  Sign Up
                 </Button>
               </Link>
               <Link to="/profile">
