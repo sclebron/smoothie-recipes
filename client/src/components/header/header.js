@@ -30,11 +30,6 @@ function BrandExample() {
                   Sign Up
                 </Button>
               </Link>
-              <Link to="/profile">
-                <Button className="button-3" variant="primary">
-                  Profile
-                </Button>
-              </Link>
             </Container>
           </div>
         </div>
